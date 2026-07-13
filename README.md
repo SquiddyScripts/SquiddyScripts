@@ -1,16 +1,18 @@
 # 💫 About Me
 
-👋 hey, i’m amaan
-🌍 pakistan + northern virginia
-🎓 high school student
-⚙️ engineering projects
-🌐 websites
-👕 fashion
-🎨 visual design
-🎮 old games
-🤼 wrestling
-🎙️ debate
-📁 code, documentation, and unfinished experiments
+ 👋 hey, i’m amaan
+
+ 🌍 i grew up between pakistan and northern virginia
+
+🎓 i am currently in high school
+
+⚙️ I am usually working on an engineering project or website
+
+🎨 interested in fashion, visual design, and gaming
+
+🤼 outside of that, i do wrestling and debate
+
+📁 this github is where the code, documentation, and unfinished experiments end up
 
 ### right now
 
