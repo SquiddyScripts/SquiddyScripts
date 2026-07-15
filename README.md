@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./header.gif" alt="Header animation" />
+  <img height="150" src="./assets/header.gif" alt="Header animation" />
 </div>
 
 <h1 align="center">👋 hey, i’m amaan</h1>
@@ -20,19 +20,24 @@
 
 ## 👩‍💻 About Me
 
-- 🌍 grew up between pakistan and northern virginia
-- 🎓 currently in high school
-- ⚙️ usually working on an engineering project or website
-- 🎨 into fashion, 3D design, motion graphics, and games
-- 🤼 wrestling and debate
-- 📁 code, documentation, and unfinished experiments
+🌍 i grew up between pakistan and northern virginia  
 
-### Right now
+🎓 i am currently in high school  
+
+⚙️ i am usually working on an engineering project or website  
+
+🎨 interested in fashion, visual design, and gaming  
+
+🤼 outside of that, i do wrestling and debate  
+
+📁 this github is where the code, documentation, and unfinished experiments end up  
+
+### right now
 
 - 🔭 documenting my gravity battery project and working on **Belief**, a probabilistic programming language
 - 👯 open to collaborating with people seriously building a startup
 - 🌱 learning more about electronics, embedded systems, and PCB design
-- 💬 ask me about any of my projects or repositories
+- 💬 ask me about my projects or anything in my repositories
 
 ## 💻 Things I Work With
 
@@ -46,8 +51,6 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-<br>
-
 **Web Development**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -58,15 +61,11 @@
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
-<br>
-
 **Engineering + Systems**
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-<br>
 
 **Creative + Interactive**
 
@@ -74,4 +73,3 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-
